@@ -1,28 +1,73 @@
-# oolusanya
+# Oluwaseun Olusanya Portfolio
 
-Welcome to the `oolusanya` project!
+Welcome to the personal portfolio of Oluwaseun Olusanya.  
+This project showcases my work, skills, and projects using a modern web stack.
 
-## Overview
+## 🚀 Features
 
-This repository contains code and resources for the `oolusanya` project.  
-Describe your project's purpose, features, and usage below.
+- Developed with **Next.js** for fast, server-side rendering.
+- Written in **TypeScript** for type safety and maintainability.
+- Styled with **Tailwind CSS** for modern, responsive design.
+- Optimized for performance and SEO.
+- Mobile-first and fully responsive.
 
-## Getting Started
+## 🛠️ Technologies Used
 
-Clone the repository:
+- **Next.js** - React framework for production.
+- **TypeScript** - Superset of JavaScript with static typing.
+- **Tailwind CSS** - Utility-first CSS framework.
+- **PostCSS** - Tool for transforming CSS with plugins.
+- **ESLint** - Code linting for cleaner code.
+
+## 📁 Project Structure
+
+```
+oolusanya/
+│
+├─ src/              # Source code
+├─ public/           # Static assets
+├─ package.json      # Project dependencies and scripts
+├─ tsconfig.json     # TypeScript configuration
+├─ next.config.ts    # Next.js configuration
+├─ postcss.config.mjs# PostCSS configuration
+└─ eslint.config.mjs # ESLint configuration
+```
+
+## ��️ Getting Started
+
+1. Clone the repository:
+
 ```bash
-git clone https://github.com/yourusername/oolusanya.git
+git clone https://github.com/oluwaseunolusanya/oolusanya.git
 cd oolusanya
 ```
 
-## Usage
+2. Install dependencies:
 
-Explain how to run or use your project here.
+```bash
+npm install
+```
 
-## Contributing
+3. Run the development server:
 
-Contributions are welcome! Please open issues or submit pull requests.
+```bash
+npm run dev
+```
 
-## License
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the portfolio.
 
-Specify your project's license here.
+## 🤝 Contributing
+
+Contributions are welcome! You can help by:
+
+- Opening issues for bugs or feature requests.
+- Submitting pull requests with improvements.
+
+## 📝 License
+
+This repository currently does not have a license specified.  
+Please contact the owner for usage permissions.
+
+---
+
+Created by **Oluwaseun Olusanya**
