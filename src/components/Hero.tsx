@@ -5,7 +5,7 @@ export default function Hero() {
       className="flex flex-col items-center justify-center text-center min-h-[70vh] px-6"
     >
       <h1 className="text-4xl md:text-6xl font-bold mb-4">
-        Hi, I'm <span className="text-blue-600">Oluwaseun Olusanya</span>
+        Hi, I am <span className="text-blue-600">Oluwaseun Olusanya</span>
       </h1>
       <p className="text-lg md:text-xl text-gray-600 max-w-2xl mb-6">
         Software engineer passionate about building reliable, user-focused applications.
