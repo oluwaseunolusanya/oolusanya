@@ -9,13 +9,13 @@ export default function Contact() {
         I'm always open to discussing new projects, creative ideas, or
         opportunities to be part of your visions. Feel free to reach out to me
         via email at{" "}
-        <a
+      </p>
+      <a
           href="mailto:oj.olusanya@gmail.com"
           className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
         >
             Say Hello
         </a>
-      </p>
     </section>
   );
 }

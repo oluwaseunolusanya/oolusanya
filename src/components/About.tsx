@@ -11,7 +11,7 @@ export default function About() {
         clean, maintainable solutions.
       </p>
       <p className="text-gray-700 leading-relaxed">
-        My expertise spans React, TypeScript, Next.js, and Python. I’ve built
+        My expertise spans React, TypeScript, Next.js, and Python. I've built
         projects like <strong>Nurture Patch</strong> and <strong>Gustat</strong>,
         delivering practical and high-quality solutions. I thrive in agile teams
         and enjoy mentoring and collaborating to create impactful products.
