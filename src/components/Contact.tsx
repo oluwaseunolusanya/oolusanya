@@ -6,7 +6,7 @@ export default function Contact() {
     >
       <h2 className="text-3xl font-bold mb-6">Contact Me</h2>
       <p className="text-gray-700 leading-relaxed mb-4">
-        I'm always open to discussing new projects, creative ideas, or
+        I am always open to discussing new projects, creative ideas, or
         opportunities to be part of your visions. Feel free to reach out to me
         via email at{" "}
       </p>
